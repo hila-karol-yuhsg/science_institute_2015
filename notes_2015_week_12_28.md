@@ -4,8 +4,8 @@
 ### Important terms
 
 * Buffer (TBE)
-* Restriction Enzyme
-* Agarose
+* Restriction Enzyme: enzymes that cut strands of DNA at certain loci
+* Agarose: the gel we use for gel electrophoresis
 * Loading Dye
 * Power Source
 * Electrostatic forces
